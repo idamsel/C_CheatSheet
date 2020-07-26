@@ -1,2 +1,2 @@
 # C_CheatSheet
-C language basics
+C basic programs 
