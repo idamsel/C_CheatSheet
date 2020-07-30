@@ -1,2 +1,2 @@
 # C_CheatSheet
-C basic programs with some sorting algorithms
+C basic programs with some sorting algorithms.
